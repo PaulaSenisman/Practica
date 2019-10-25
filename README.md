@@ -2,12 +2,12 @@
 
 ## Pasos para crear un repositorio.
 
-*Paso 1*: En *GitHub* dirigirse a repository y colocar new.
+**Paso 1**: En *GitHub* dirigirse a repository y colocar new.
 
-*Paso 2*: Escribir el nombre que desee tener el repositorio.
+**Paso 2**: Escribir el nombre que desee tener el repositorio.
 
-*Paso 3*: El repositorio debe ser publico y ser debe dar check a iniciar el repositorio con  
-        un *README*.
+**Paso 3**: El repositorio debe ser publico y ser debe dar check a iniciar el repositorio con 
+un *README*.
 
 **Nota**:  Para editar un repositorio existen dos formas; La primera es realizarlo de manera directa en el lápiz ubicado en las esquina superior derecha del repositorio; La alternativa número dos es a través de *text edit* (lo que es útil en caso de no poseer internet.)
 
@@ -19,7 +19,7 @@
 - En el repositorio creado en *GitHub* se debe ir a "Clone of Download", a aquí se dispondrá de un link asociado al *repositorio*, el cual se debe colocar en *Sourcetree* para crear una carpeta en el computador ubicada donde se desee. 
 
 **¿Dónde colocar el link del *repositorio*?**
-- En *Sourcetree* se debe apretar nuevo y luego seleccionar la opción clonar desde url. Esto quedará guardado en una carpeta con el nombre del repositorio el *local* del *Sourcetree*.
+- En *Sourcetree* se debe apretar nuevo y luego seleccionar la opción "clonar desde url". Esto quedará guardado en una carpeta con el nombre del repositorio el *local* del *Sourcetree*.
 
 **¿Cómo editar el *repositorio* a través de *Sourcetree*?**
 - Para editar el *repositorio* a través del *Sourcetree* se debe abrir la carpeta en el computador, la cual contendrá un archivo llamado *README*, y este a su vez abrirlo a través de *Text Edit*. 
@@ -37,6 +37,6 @@
 
 4. Para realizar un **punto seguido** se debe colocar el punto y seguir ahí mismo ó bajar solo un espacio.
 
-5. Para utilizar **negrita** es doble asterisco ala palabra. **
+5. Para utilizar **negrita** es doble asterisco ala palabra. ** 
 
 6. Para realizar **cursiva** solo se debe colocar un asterisco. *
