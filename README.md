@@ -69,6 +69,7 @@ un *README*.
 ### Trabajando en R estudio
 
 ***Siempre se debe colocar alt + enter para correr un comando*** 
+***Para hacer <- altero presionar alt-***
 
 **¿Cómo escribir en *R estudio*?**
 
@@ -77,4 +78,6 @@ un *README*.
 **¿Cómo crear una variable simple?**
 
 - Colocar un igual =, por ejemplo x=2, ahora la variable x vale 2. 
+
+- **Cuando en los resultados sale [1] significa que ese es el primer (y único resultado) de nuestra orden**. 
 
