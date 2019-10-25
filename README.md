@@ -29,7 +29,7 @@ un *README*.
 
 ## Funciones del Github.
 
-Item 1 Para establecer un **Titulo** se debe colocar #y un espacio. (# )
+1. Item 1 Para establecer un **Titulo** se debe colocar #y un espacio. (# )
 
 - Para un **subtitulo** se debe colocar doble gato y un espacio. (## )
 
