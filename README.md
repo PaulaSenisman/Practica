@@ -1,6 +1,6 @@
 # Practica
 
-##Pasos para crear un repositorio.
+## Pasos para crear un repositorio.
 
 Paso 1: En GitHub dirigirse a repository y colocar new.
 
