@@ -1,9 +1,11 @@
 # Practica
-Trabajo en casa
-Pasos para crear un repositorio.
+
+##Pasos para crear un repositorio.
 
 Paso 1: En GitHub dirigirse a repository y colocar new.
+
 Paso 2: Escribir el nombre que desee tener el repositorio.
+
 Paso 3: El repositorio debe ser publico y ser debe dar check a iniciar el repositorio con  
         un readme.
 
@@ -24,3 +26,7 @@ Paso 3: El repositorio debe ser publico y ser debe dar check a iniciar el reposi
 
 ¿Cómo subir mis cambios realizados a través de Sourcetree a Github?
 - Se deben guardar los cambios realizados en archivo, posteriormente en la carpeta del Sourcetree realizar un comentario (Mensaje para anotar),push y ok.
+
+Funciones del Github.
+
+Para establecer un Titulo y subtitulo se debe 
