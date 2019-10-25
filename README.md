@@ -33,15 +33,15 @@ un *README*.
 
 2. Para un **subtitulo** se debe colocar doble gato y un espacio. (## )
 
-	* Para realizar un **punto aparte** y seguir la oración abajo, se debe bajar dos veces.
+3. Para realizar un **punto aparte** y seguir la oración abajo, se debe bajar dos veces.
 
-- Para realizar un **punto seguido** se debe colocar el punto y seguir ahí mismo ó bajar solo un espacio.
+4. Para realizar un **punto seguido** se debe colocar el punto y seguir ahí mismo ó bajar solo un espacio.
 
-- Para utilizar **negrita** es doble asterisco ala palabra. ** 
+5. Para utilizar **negrita** es doble asterisco ala palabra. ** 
 
-- Para realizar **cursiva** solo se debe colocar un asterisco. *
+6. Para realizar **cursiva** solo se debe colocar un asterisco. *
 
-- Para colocar **numeración como punteo** colocar un guión ó asterisco y espacio. - ó *
+7. Para colocar **numeración como punteo** colocar un guión ó asterisco y espacio. - ó *
 
-- Para colocar numeración tal como (1. 2. 3. ...) se debe poner tal cual 1.
+8. Para colocar numeración tal como (1. 2. 3. ...) se debe poner tal cual 1.
 
