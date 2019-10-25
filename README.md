@@ -70,7 +70,11 @@ un *README*.
 
 ***Siempre se debe colocar alt + enter para correr un comando*** 
 
-¿Cómo crear una variable simple?
+**¿Cómo escribir en *R estudio*?**
+
+- se debe colocar gato # antes de escribir.
+
+**¿Cómo crear una variable simple?**
 
 - Colocar un igual =, por ejemplo x=2, ahora la variable x vale 2. 
 
