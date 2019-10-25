@@ -43,4 +43,6 @@ un *README*.
 
 - Para colocar numeración como punteo colocar un guión y espacio. -
 
-_ Para colocar numeración tal como (1. 2. 3. ...) se debe poner guión. _
+-Para colocar numeración tal como (1. 2. 3. ...) se debe poner guión. 
+
+ - para
