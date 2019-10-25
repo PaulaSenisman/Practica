@@ -43,6 +43,6 @@ un *README*.
 
 7. Para colocar **numeración como punteo** colocar un guión ó asterisco y espacio. - ó *
 
-8. Para colocar numeración tal como (1. 2. 3. ...) se debe poner tal cual 1.
+8. Para colocar **numeración tal como (1. 2. 3. ...)** se debe poner tal cual 1.
 
 9. [**En caso de dudas y más funciones**] (https://help.github.com/es/github/writing-on-github/basic-writing-and-formatting-syntax#styling-text)
