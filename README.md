@@ -1,6 +1,4 @@
 
-![GitHub logo](https://www.google.com/search?biw=1229&bih=598&tbm=isch&sa=1&ei=f2-yXcD3FPCw5OUP2oa1mAY&q=imagen+de+color+&oq=imagen+de+color+&gs_l=img.3..0l10.1592.11841..12067...8.0..2.151.2300.43j1......0....1..gws-wiz-img.....0..0i67j0i10j0i10i24.4JQI1Z1XcPI&ved=0ahUKEwiAs8Ouv7blAhVwGLkGHVpDDWMQ4dUDCAY&uact=5#imgrc=xgsAP6eEnz3_jM:)
-
 # Practica
 
 ## Pasos para crear un repositorio.
@@ -48,4 +46,6 @@ un *README*.
 
 8. Para colocar numeración tal como (1. 2. 3. ...) se debe poner tal cual 1.
 
-9. Para colocar una imagen se debe ingresar ![GitHub Logo](/images/logo.png).
+9. Para colocar una **imagen** se debe ingresar 
+
+10.
