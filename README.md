@@ -46,3 +46,16 @@ un *README*.
 8. Para colocar **numeración tal como (1. 2. 3. ...)** se debe poner tal cual 1.
 
 9. [**En caso de dudas y más funciones**] (https://help.github.com/es/github/writing-on-github/basic-writing-and-formatting-syntax#styling-text)
+
+## R Estudio
+
+**¿Cómo trabajar en R y que quede guardado en mi repositorio?**
+
+- **Paso 1**: Se debe abrir *R* y dirigirse a el *icono para crear una nueva hoja* y colocar ***R script***.
+
+- **Paso 2**: **Limpiar** las ventanas restantes que contienen variables y demas.
+
+- **Paso 3**: **Trabajar** en *R*.
+
+- **pASO 4**: **Guardar** el *nuevo script*
+ **Nota**: Al guardar el nuevo script se debe cambiar el nombre del documente (Save as) y ubicarlo en la carpeta clonada desde *Github*. Luego apretar ***Save*** 
