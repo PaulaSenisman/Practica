@@ -45,6 +45,4 @@ un *README*.
 
 8. Para colocar numeración tal como (1. 2. 3. ...) se debe poner tal cual 1.
 
-9. Para colocar una **imagen** se debe ingresar 
-
-10.
+9. [**En caso de dudas y más funciones**] (https://help.github.com/es/github/writing-on-github/basic-writing-and-formatting-syntax#styling-text)
