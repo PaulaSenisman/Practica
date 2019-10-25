@@ -63,3 +63,14 @@ un *README*.
 **¿Cómo eliminar un archivo de repositorio?**
 
 - Se debe ingresar al archivo (ya sea *R* o *README*) y apretar el **basurero**. Luego de esto te solita un Commit changes, debe estar seleccionado *Commit directly to the master branch y presionar ***Commit Changes***.
+
+- Posteriormente en *Sourcetree* se deben recibir los cambios a través de ***recibir***
+
+### Trabajando en R estudio
+
+***Siempre se debe colocar alt + enter para correr un comando*** 
+
+¿Cómo crear una variable simple?
+
+- Colocar un igual =, por ejemplo x=2, ahora la variable x vale 2. 
+
