@@ -57,5 +57,9 @@ un *README*.
 
 - **Paso 3**: **Trabajar** en *R*.
 
-- **pASO 4**: **Guardar** el *nuevo script*
+- **Paso 4**: **Guardar** el *nuevo script*
  **Nota**: Al guardar el nuevo script se debe cambiar el nombre del documente (Save as) y ubicarlo en la carpeta clonada desde *Github*. Luego apretar ***Save*** 
+
+**¿Cómo eliminar un archivo de repositorio?**
+
+- Se debe ingresar al archivo (ya sea *R* o *README*) y apretar el **basurero**. Luego de esto te solita un Commit changes, debe estar seleccionado *Commit directly to the master branch y presionar ***Commit Changes***.
