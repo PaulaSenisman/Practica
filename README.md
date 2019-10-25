@@ -31,7 +31,7 @@ un *README*.
 
 1. Para establecer un **Titulo** se debe colocar #y un espacio. (# )
 
-* Para un **subtitulo** se debe colocar doble gato y un espacio. (## )
+2. Para un **subtitulo** se debe colocar doble gato y un espacio. (## )
 
 	* Para realizar un **punto aparte** y seguir la oración abajo, se debe bajar dos veces.
 
@@ -41,7 +41,7 @@ un *README*.
 
 - Para realizar **cursiva** solo se debe colocar un asterisco. *
 
-- Para colocar **numeración como punteo** colocar un guión y espacio. -
+- Para colocar **numeración como punteo** colocar un guión ó asterisco y espacio. - ó *
 
-- Para colocar numeración tal como (1. 2. 3. ...) se debe poner **Item 1**. 
+- Para colocar numeración tal como (1. 2. 3. ...) se debe poner tal cual 1.
 
