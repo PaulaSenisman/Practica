@@ -23,4 +23,4 @@ Paso 3: El repositorio debe ser publico y ser debe dar check a iniciar el reposi
 - Para editar el repositorio a través del Sourcetree se debe abrir la carpeta en el computador, la cual contendrá un archivo llamado README, y este a su vez abrirlo a través de Text Edit. 
 
 ¿Cómo subir mis cambios realizados a través de Sourcetree a Github?
-- Se deben guardar los cambios realizados en archivo, posteriormente en la carpeta del Sourcetree realizar un comentario (Mensaje para anotar) y push.
+- Se deben guardar los cambios realizados en archivo, posteriormente en la carpeta del Sourcetree realizar un comentario (Mensaje para anotar),push y ok.
