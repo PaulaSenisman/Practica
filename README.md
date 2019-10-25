@@ -41,4 +41,6 @@ un *README*.
 
 - Para realizar **cursiva** solo se debe colocar un asterisco. *
 
-- Para colocar numeración tal como (1. 2. 3. ...) se debe poner guión. -
+- Para colocar numeración como punteo colocar un guión y espacio. -
+
+_ Para colocar numeración tal como (1. 2. 3. ...) se debe poner guión. _
