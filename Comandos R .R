@@ -1,15 +1,21 @@
 #Tipo de datos
 
-#Enteros (int)
+#Enteros (int) integer
 #-3,0,3
-#Reales
+
+#Reales (doubles)
 #0,303456
+
 #Booleans (boolean)
 #True o False
+
 #Carácter (char)
 #'a','A', '0','#'
-#Texto (String)
+
+#Texto (String) frases o palabras
 #"Hola","103"
+
+#Caracteres (char)
 
 #Variables
 
