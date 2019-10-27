@@ -41,7 +41,7 @@ rm(list=ls())
 #Se eliminan todas las variables 
 rm(list=ls(pat="^P"))
 #Para borrar selectivamente algunos objetos, en este caso todos los objetos que comienzan con la letra P
-
+---------------
 #ATRIBUTOS
 #Estos especifican el tipo de dato representado por el objeto
 #La función sobre un objeto depende de los atributos de este
@@ -62,3 +62,42 @@ mode(listaDeNumeros)
 #Se indica que contiene una lista
 length(listaDeNumeros)
 #Existen 11 elementos en el objeto
+
+#Ejemplo 3
+mode(Dante) ; mode(Francisco) ; mode(Paula)
+----------------
+#Generando secuencia de datos 
+T <- 1:30
+#se crea un objeto que contiene una secuencia regular de elementos ordenados cuyos tipos de datos son enteros del 1 al 30 
+#Es decir el vector resultante T tiene 30 elementos.
+1:10-1
+#Se genera una secuencia de números del 1 al 9 que incluyen el 0
+1:(10-1)
+
+#Se genera una secuencia de números del 1 al 9
+seq(1,5,0.5)
+#Secuencia de números reales donde el primer número indica el inicio, el segundo el final y el tercero el incremento.
+seq(2,3,0.2)
+#o bien utilizar
+seq(length=9, from=1, to=5)
+
+#Matrices
+layout(matrix(1:6,2,3))
+layout.show(2)
+
+#Graficas
+x <- rnorm(10)
+y <- rnorm(10)
+plot(x,y)
+
+#Se crea un objeto el cual corresponde a una serie de números con 6 elementos, el vector generado es 1,2,3,4,5,6
+S <- 1:6
+#Se crea una variable b
+b=3
+#Se crea el objeto y
+y <- 1:6
+#Se indica que cuando el elemento evaluado de la secuencia x no sea igual al elemento b, se coloque 1; cuando sean identicos, coloque cero (todo esto en una nueva variable generada llamada Y) 
+#y <- numeric(lengt(x))
+for (i in 1:length(S)) if (S[i]==b) y [i] <- 0 else y[i] <- 1
+#Se elimina la secuencia de datos y de la memoria 
+rm(list = ls(pat="^y"))
